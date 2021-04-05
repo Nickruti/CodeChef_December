@@ -1,2 +1,2 @@
 # CodeChef_December
-CodeChef December Challenge
+CodeChef Challenge
